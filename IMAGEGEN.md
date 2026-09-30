@@ -1,22 +1,23 @@
 # Imagens geradas para a página
 
-Modo utilizado: gerador de imagens integrado do Codex, conforme solicitado para o fluxo GPT Image.
+Modo utilizado: gerador de imagens integrado do Codex (fluxo GPT Image), com três gerações independentes de mockups de produto.
 
-## `assets/atlas-hero.webp`
+## `assets/atlas-hero-v2.webp`
 
-Mockup fotográfico premium do produto em fundo marfim, com capa verde-petróleo e três lâminas sobre Ansiedade, Autocrítica e Limites Pessoais. Direção adulta, editorial e profissional; sem pessoas, preço, selos ou depoimentos.
+Composição principal em estúdio com a capa grande do Atlas, cinco materiais temáticos visíveis e uma versão em tablet. Os exemplos mostram Ansiedade, Autocrítica, Limites, Regulação Emocional e Relacionamentos.
 
-## `assets/atlas-metodo.webp`
+## `assets/atlas-metodo-v2.webp`
 
-Foto editorial vista de cima com as três páginas do método: Entenda, Visualize e Explore. Tema Ansiedade, diagrama circular e perguntas abertas, sem objetos decorativos ou elementos infantis.
+Cena vista de cima mostrando o conteúdo na prática: páginas A4 impressas, uma profissional selecionando o material e um tablet exibindo a mesma estrutura. Os exemplos apresentam Entenda, Visualize e Explore para Ansiedade, Limites e Autocrítica.
 
-## `assets/atlas-oferta.webp`
+## `assets/atlas-oferta-v2.webp`
 
-Composição fotográfica do pacote completo: Atlas, Guia de Utilização, Lâminas Comparativas, Modelos Preenchíveis e versão em tela. Sem preço, descontos, depoimentos ou logos inventados.
+Mockup completo da oferta, com a capa principal em destaque e capas grandes para Guia de Utilização, Lâminas Comparativas e Modelos Preenchíveis, além de páginas internas e tablet.
 
 ## Direção compartilhada dos prompts
 
-- Uso: mockups de produto para landing page brasileira de resposta direta.
-- Estilo: fotografia comercial premium, papel e impressão realistas.
-- Paleta: verde-petróleo, marfim, mostarda, terracota, azul e violeta discretos.
-- Restrições: material adulto, sem pessoas, mãos, decoração genérica, marcas, escassez, preços, avaliações ou textos longos gerados na imagem.
+- Uso: mockups de produto para uma página brasileira de resposta direta.
+- Estilo: fotografia editorial premium, adulta e profissional.
+- Paleta: verde-petróleo, marfim, terracota, mostarda e verde suave.
+- Materiais: papel fosco, impressão nítida, tablet e sombras naturais de estúdio.
+- Restrições: sem preço, CTA, selo promocional, marca d'água, legenda flutuante ou a expressão “imagem de protótipo”.
